@@ -67,7 +67,7 @@
     content: "";
     position: absolute;
     z-index: -1;
-    background: url(/bgmore.avif);
+    background: url(bgmore.avif);
     background-repeat: no-repeat;
     background-size: cover;
    
